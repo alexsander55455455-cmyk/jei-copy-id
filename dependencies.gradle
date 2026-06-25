@@ -1,0 +1,4 @@
+dependencies {
+    compileOnly rfg.deobf('mezz.jei:jei_1.12.2:4.8.0.119:api')
+    compileOnly rfg.deobf('mezz.jei:jei_1.12.2:4.8.0.119')
+}

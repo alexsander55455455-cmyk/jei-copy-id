@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "jeicopyid",
+    "name": "JEI Copy ID",
+    "description": "Copies the hovered JEI item ID to clipboard with Ctrl+C.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "authorList": ["alex"],
+    "credits": "",
+    "logoFile": "",
+    "dependencies": ["jei"]
+  }
+]

@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+out/
+run/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.classpath
+*.project
+.settings/
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local libs (use Maven in dependencies.gradle)
+libs/
