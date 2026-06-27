@@ -2,7 +2,7 @@
   {
     "modid": "jeicopyid",
     "name": "JEI Copy ID",
-    "description": "Copies the hovered JEI item ID to clipboard with Ctrl+C.",
+    "description": "Copies the hovered item ID from JEI or creative inventory to clipboard with Ctrl+C.",
     "version": "${version}",
     "mcversion": "${mcversion}",
     "url": "",
